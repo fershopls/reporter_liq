@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "lib\\": "lib/"
+    }
+  },
+  "require": {
+    "phine/path": "^1.1"
+  }
+}
